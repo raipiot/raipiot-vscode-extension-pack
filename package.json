@@ -1,7 +1,7 @@
 {
   "name": "raipiot-extension-pack",
   "displayName": "raipiot Dev Extension Pack",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "raipiot internal VSCode extension pack.",
   "author": "Bruce Song <recall4056@gmail.com> (https://github.com/recallwei/)",
   "publisher": "raipiot",
@@ -31,7 +31,8 @@
     "bradlc.vscode-tailwindcss",
     "antfu.iconify",
     "pflannery.vscode-versionlens",
-    "folke.vscode-monorepo-workspace"
+    "folke.vscode-monorepo-workspace",
+    "antfu.goto-alias"
   ],
   "private": true,
   "license": "MIT"
